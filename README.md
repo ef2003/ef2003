@@ -1,9 +1,9 @@
 ## EMILY FRANCIS 👋
 
-<h4>About Me</h4>
+<h3>About Me</h3>
 <p>Year 3 Software Engineering Student</p>
 
-<h3 align="left">Connect with me:</h3>
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily francis" height="30" width="40" />
 <p align="left">
-<a href="https://www.linkedin.com/in/emily-francis-072419312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily francis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emily-francis-072419312/" target="Emily Francis"></a>
 </p>
