@@ -1,9 +1,8 @@
-## EMILY FRANCIS 👋
+# 👋 Hi, I'm Emily Francis!
 
-<h3> About Me </h3>
-Year 3 Software Engineering Student
+### About Me
+🎓 Year 3 Software Engineering Student  
+💻 Passionate about technology, coding, and solving real-world problems.  
 
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily francis" height="30" width="40" />
-<p align="left">
-<a href="https://www.linkedin.com/in/emily-francis-072419312/" target="Emily Francis"></a>
-</p>
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/emily-francis-072419312/)  
